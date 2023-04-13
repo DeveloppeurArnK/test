@@ -4,4 +4,5 @@ test dans web_perf_test
 var_dump($_ENV);
 echo '<br><br>';
 print_r($_ENV);
+
 ?>
